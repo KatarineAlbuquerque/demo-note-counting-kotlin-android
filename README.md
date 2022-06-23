@@ -2,7 +2,7 @@
 <h2 align="center">Android</h2>
 
 <p width="100%" align="center">
-    <img src="./images/notes.png" alt="Header" width="100%"/>
+    <img src="./images/notes.png" alt="Header" width="70%"/>
 </p>
 
 <h3 align="center">I. Sobre</h3>
