@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notas</string>
+
+    <string name="text_button">Calcular</string>
+    <string name="text_label">Valor</string>
+    <string name="text_hint">0</string>
+    <string name="text_title">Notas</string>
+
+    <string name="hint_text">Informe um Valor Inteiro</string>
+
+    <string name="cd_imagem_nota_de_1_real">Imagem Nota de 1 Real</string>
+    <string name="cd_imagem_nota_de_2_reais">Imagem Nota de 2 Reais</string>
+    <string name="cd_imagem_nota_de_5_reais">Imagem Nota de 5 Reais</string>
+    <string name="cd_imagem_nota_de_10_reais">Imagem Nota de 10 Reais</string>
+    <string name="cd_imagem_nota_de_20_reais">imagem_nota_de_20_reais</string>
+    <string name="cd_imagem_nota_de_50_reais">Imagem Nota de 50 Reais</string>
+    <string name="cd_imagem_nota_de_100_reais">Imagem Nota de 100 Reais</string>
+    <string name="cd_imagem_nota_de_200_reais">Imagem Nota de 200 Reais</string>
+
+    <string name="error_number">Informe um valor inteiro!"\n"Ex.: 259</string>
+</resources>
